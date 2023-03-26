@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.mb-3,.but{
+  width: 150px;
+  margin: 0 auto;
+}
+.but{
+  margin-right: 45%;
+  margin-left: 45%;
+}
+nav{
+  background-color:rgb(53, 3, 3);
+  font-size: 50px;
+  display: inline;
+  width: 100%;
+}
+.links{
+  margin: 20px;
+}
